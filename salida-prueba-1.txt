@@ -1,0 +1,175 @@
+El robot no ha encontrado ninguna bola en la posicion 3
+El robot ha encontrado un bola verde la posicion 3
+La puntuacion del robot es ahora 1
+El paciente ha encontrado un bola verde la posicion 3
+La puntuacion del paciente es ahora 1
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot ha encontrado un bola verde la posicion 1
+La puntuacion del robot es ahora 2
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente ha encontrado un bola verde la posicion 2
+La puntuacion del paciente es ahora 2
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot ha encontrado un bola roja la posicion 3
+La puntuacion del robot es ahora 1
+El paciente ha encontrado un bola verde la posicion 3
+La puntuacion del paciente es ahora 3
+El robot ha encontrado un bola roja la posicion 2
+La puntuacion del robot es ahora 0
+El paciente ha encontrado un bola roja la posicion 3
+La puntuacion del paciente es ahora 2
+El robot ha encontrado un bola verde la posicion 2
+La puntuacion del robot es ahora 1
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente ha encontrado un bola roja la posicion 1
+La puntuacion del paciente es ahora 1
+El robot ha encontrado un bola roja la posicion 2
+La puntuacion del robot es ahora 0
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente ha encontrado un bola verde la posicion 2
+La puntuacion del paciente es ahora 2
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot ha encontrado un bola verde la posicion 1
+La puntuacion del robot es ahora 1
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente ha encontrado un bola roja la posicion 2
+La puntuacion del paciente es ahora 1
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot ha encontrado un bola verde la posicion 3
+La puntuacion del robot es ahora 2
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente ha encontrado un bola verde la posicion 3
+La puntuacion del paciente es ahora 2
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot no ha encontrado ninguna bola en la posicion 3
+El robot ha encontrado un bola roja la posicion 3
+La puntuacion del robot es ahora 1
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente ha encontrado un bola roja la posicion 3
+La puntuacion del paciente es ahora 1
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot ha encontrado un bola roja la posicion 2
+La puntuacion del robot es ahora 0
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente ha encontrado un bola roja la posicion 3
+La puntuacion del paciente es ahora 0
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot no ha encontrado ninguna bola en la posicion 3
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot ha encontrado un bola roja la posicion 2
+La puntuacion del robot es ahora -1
+El paciente ha encontrado un bola verde la posicion 1
+La puntuacion del paciente es ahora 1
+El robot ha encontrado un bola roja la posicion 3
+La puntuacion del robot es ahora -2
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente ha encontrado un bola roja la posicion 2
+La puntuacion del paciente es ahora 0
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot ha encontrado un bola verde la posicion 2
+La puntuacion del robot es ahora -1
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente ha encontrado un bola verde la posicion 1
+La puntuacion del paciente es ahora 1
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot ha encontrado un bola verde la posicion 3
+La puntuacion del robot es ahora 0
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente ha encontrado un bola roja la posicion 2
+La puntuacion del paciente es ahora 0
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot ha encontrado un bola roja la posicion 1
+La puntuacion del robot es ahora -1
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente ha encontrado un bola verde la posicion 1
+La puntuacion del paciente es ahora 1
+El robot no ha encontrado ninguna bola en la posicion 3
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot ha encontrado un bola roja la posicion 1
+La puntuacion del robot es ahora -2
+El paciente ha encontrado un bola roja la posicion 3
+La puntuacion del paciente es ahora 0
+El robot ha encontrado un bola verde la posicion 3
+La puntuacion del robot es ahora -1
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente ha encontrado un bola verde la posicion 3
+La puntuacion del paciente es ahora 1
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot no ha encontrado ninguna bola en la posicion 3
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot no ha encontrado ninguna bola en la posicion 3
+El robot ha encontrado un bola roja la posicion 3
+La puntuacion del robot es ahora -2
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 1
+El paciente ha encontrado un bola verde la posicion 1
+La puntuacion del paciente es ahora 2
+El robot ha encontrado un bola verde la posicion 1
+La puntuacion del robot es ahora -1
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente ha encontrado un bola verde la posicion 3
+La puntuacion del paciente es ahora 3
+El robot no ha encontrado ninguna bola en la posicion 1
+El robot ha encontrado un bola roja la posicion 2
+La puntuacion del robot es ahora -2
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente no ha encontrado ninguna bola en la posicion 2
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente no ha encontrado ninguna bola en la posicion 3
+El paciente ha encontrado un bola roja la posicion 2
+La puntuacion del paciente es ahora 2
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot ha encontrado un bola roja la posicion 2
+La puntuacion del robot es ahora -3
+El paciente ha encontrado un bola verde la posicion 2
+La puntuacion del paciente es ahora 3
+El robot ha encontrado un bola roja la posicion 2
+La puntuacion del robot es ahora -4
+El paciente ha encontrado un bola verde la posicion 3
+La puntuacion del paciente es ahora 4
+El robot ha encontrado un bola roja la posicion 3
+La puntuacion del robot es ahora -5
+El paciente ha encontrado un bola verde la posicion 3
+La puntuacion del paciente es ahora 5
+El robot no ha encontrado ninguna bola en la posicion 2
+El robot ha encontrado un bola roja la posicion 2
+La puntuacion del robot es ahora -6
+El paciente ha encontrado un bola verde la posicion 3
+La puntuacion del paciente es ahora 6
+El paciente ha ganado!!!!!!!!!!

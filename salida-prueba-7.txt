@@ -1,0 +1,144 @@
+El robot ha lanzado la piedra incorrectamente: fuera
+El paciente ha lanzado la piedra en la posicion 7
+(ida) El paciente se ha movido a la posicion 1
+(ida) El paciente se ha movido a la posicion 2
+(ida) El paciente se ha movido a la posicion 3
+(ida) El paciente se ha movido a la posicion 4
+(ida) El paciente se ha movido a la posicion 5
+(ida) El paciente se ha movido a la posicion 6
+(ida) El paciente pisó la piedra y ha perdido el turno
+El robot ha lanzado la piedra en la posicion 3
+(ida) El robot se ha movido a la posicion 1
+(ida) El robot se ha movido a la posicion 2
+(ida) El robot pisó la piedra y ha perdido el turno
+El paciente ha lanzado la piedra en la posicion 8
+(ida) El paciente se ha movido a la posicion 1
+(ida) El paciente se ha movido a la posicion 2
+(ida) El paciente se ha movido a la posicion 3
+(ida) El paciente se ha movido a la posicion 4
+(ida) El paciente se ha movido a la posicion 5
+(ida) El paciente se ha movido a la posicion 6
+(ida) El paciente se ha movido a la posicion 7
+(ida) El paciente esquivó la piedra y se ha movido a la posicion 9
+(vuelta) El paciente comienza la vuelta y se ha movido a la posicion 8
+(vuelta) El paciente recoge la piedra en la posicion 8
+(vuelta) El paciente se ha movido a la posicion 7
+(vuelta) El paciente se ha movido a la posicion 6
+(vuelta) El paciente se ha movido a la posicion 5
+(vuelta) El paciente se ha movido a la posicion 4
+(vuelta) El paciente se ha movido a la posicion 3
+(vuelta) El paciente se ha movido a la posicion 2
+(vuelta) El paciente se ha movido a la posicion 1
+(vuelta) El paciente se ha movido a la posicion 0
+El paciente ha ganado la ronda 0
+El robot ha lanzado la piedra en la posicion 1
+(ida) El robot esquivó la piedra y se ha movido a la posicion 2
+(ida) El robot se ha movido a la posicion 3
+(ida) El robot se ha movido a la posicion 4
+(ida) El robot se ha movido a la posicion 5
+(ida) El robot se ha movido a la posicion 6
+(ida) El robot se ha movido a la posicion 7
+(ida) El robot se ha movido a la posicion 8
+(ida) El robot se ha movido a la posicion 9
+(vuelta) El robot comienza la vuelta y se ha movido a la posicion 8
+(vuelta) El robot se ha movido a la posicion 7
+(vuelta) El robot se ha movido a la posicion 6
+(vuelta) El robot se ha movido a la posicion 5
+(vuelta) El robot se ha movido a la posicion 4
+(vuelta) El robot se ha movido a la posicion 3
+(vuelta) El robot se ha movido a la posicion 2
+(vuelta) El robot se ha movido a la posicion 1
+(vuelta) El robot recoge la piedra en la posicion 1
+(vuelta) El robot se ha movido a la posicion 0
+El robot ha ganado la ronda 1
+El paciente ha lanzado la piedra incorrectamente: linea
+El robot ha lanzado la piedra en la posicion 7
+(ida) El robot se ha movido a la posicion 1
+(ida) El robot se ha movido a la posicion 2
+(ida) El robot se ha movido a la posicion 3
+(ida) El robot se ha movido a la posicion 4
+(ida) El robot se ha movido a la posicion 5
+(ida) El robot se ha movido a la posicion 6
+(ida) El robot esquivó la piedra y se ha movido a la posicion 8
+(ida) El robot se ha movido a la posicion 9
+(vuelta) El robot comienza la vuelta y se ha movido a la posicion 8
+(vuelta) El robot se ha movido a la posicion 7
+(vuelta) El robot recoge la piedra en la posicion 7
+(vuelta) El robot se ha movido a la posicion 6
+(vuelta) El robot se ha movido a la posicion 5
+(vuelta) El robot se ha movido a la posicion 4
+(vuelta) El robot se ha movido a la posicion 3
+(vuelta) El robot se ha movido a la posicion 2
+(vuelta) El robot se ha movido a la posicion 1
+(vuelta) El robot se ha movido a la posicion 0
+El robot ha ganado la ronda 2
+El paciente agrede al robot porque pierde por diferencia de 2 puntos
+El robot escarmienta al niño, le pide respetuosamente que no lo repita y le resta un punto
+Ahora la puntuacion del paciente ha disminuido a 0
+El paciente ha lanzado la piedra en la posicion 5
+(ida) El paciente se ha movido a la posicion 1
+(ida) El paciente se ha movido a la posicion 2
+(ida) El paciente se ha movido a la posicion 3
+(ida) El paciente se ha movido a la posicion 4
+(ida) El paciente esquivó la piedra y se ha movido a la posicion 6
+(ida) El paciente se ha movido a la posicion 7
+(ida) El paciente se ha movido a la posicion 8
+(ida) El paciente se ha movido a la posicion 9
+(vuelta) El paciente comienza la vuelta y se ha movido a la posicion 8
+(vuelta) El paciente se ha movido a la posicion 7
+(vuelta) El paciente se ha movido a la posicion 6
+(vuelta) El paciente se ha movido a la posicion 5
+(vuelta) El paciente recoge la piedra en la posicion 5
+(vuelta) El paciente se ha movido a la posicion 4
+(vuelta) El paciente se ha movido a la posicion 3
+(vuelta) El paciente se ha movido a la posicion 2
+(vuelta) El paciente se ha movido a la posicion 1
+(vuelta) El paciente se ha movido a la posicion 0
+El paciente ha ganado la ronda 3
+El robot ha lanzado la piedra en la posicion 5
+(ida) El robot se ha movido a la posicion 1
+(ida) El robot se ha movido a la posicion 2
+(ida) El robot se ha movido a la posicion 3
+(ida) El robot se ha movido a la posicion 4
+(ida) El robot pisó la piedra y ha perdido el turno
+El paciente ha lanzado la piedra en la posicion 1
+(ida) El paciente esquivó la piedra y se ha movido a la posicion 2
+(ida) El paciente se ha movido a la posicion 3
+(ida) El paciente se ha movido a la posicion 4
+(ida) El paciente se ha movido a la posicion 5
+(ida) El paciente se ha movido a la posicion 6
+(ida) El paciente se ha movido a la posicion 7
+(ida) El paciente se ha movido a la posicion 8
+(ida) El paciente se ha movido a la posicion 9
+(vuelta) El paciente comienza la vuelta y se ha movido a la posicion 8
+(vuelta) El paciente se ha movido a la posicion 7
+(vuelta) El paciente se ha movido a la posicion 6
+(vuelta) El paciente se ha movido a la posicion 5
+(vuelta) El paciente se ha movido a la posicion 4
+(vuelta) El paciente se ha movido a la posicion 3
+(vuelta) El paciente se ha movido a la posicion 2
+(vuelta) El paciente se ha movido a la posicion 1
+(vuelta) El paciente recoge la piedra en la posicion 1
+(vuelta) El paciente se ha movido a la posicion 0
+El paciente ha ganado la ronda 4
+El robot ha lanzado la piedra en la posicion 4
+(ida) El robot se ha movido a la posicion 1
+(ida) El robot se ha movido a la posicion 2
+(ida) El robot se ha movido a la posicion 3
+(ida) El robot esquivó la piedra y se ha movido a la posicion 5
+(ida) El robot se ha movido a la posicion 6
+(ida) El robot se ha movido a la posicion 7
+(ida) El robot se ha movido a la posicion 8
+(ida) El robot se ha movido a la posicion 9
+(vuelta) El robot comienza la vuelta y se ha movido a la posicion 8
+(vuelta) El robot se ha movido a la posicion 7
+(vuelta) El robot se ha movido a la posicion 6
+(vuelta) El robot se ha movido a la posicion 5
+(vuelta) El robot se ha movido a la posicion 4
+(vuelta) El robot recoge la piedra en la posicion 4
+(vuelta) El robot se ha movido a la posicion 3
+(vuelta) El robot se ha movido a la posicion 2
+(vuelta) El robot se ha movido a la posicion 1
+(vuelta) El robot se ha movido a la posicion 0
+El robot ha ganado la ronda 5
+El robot ha ganado!!!!!!!!!!
